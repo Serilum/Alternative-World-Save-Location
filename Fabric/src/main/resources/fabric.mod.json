@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "alternativeworldsavelocation",
-  "version": "3.4",
+  "version": "3.5",
 
   "name": "Alternative World Save Location",
   "description": "Allows changing the default save location of Minecraft worlds to outside the instance scope.",
@@ -18,7 +18,7 @@
   "environment": "*",
   "entrypoints": { "main": [ "com.natamus.alternativeworldsavelocation.ModFabric" ], "modmenu": [ "com.natamus.alternativeworldsavelocation.fabric.config.IntegrateModMenu" ] },
   "mixins": [
-    "alternativeworldsavelocation_fabric.mixins.json"
+    "alternativeworldsavelocation.mixins.json"
   ],
 
   "depends": {
@@ -26,7 +26,7 @@
     "fabric": "*",
     "minecraft": ">=1.20",
     "java": ">=17",
-    "collective": ">=7.21"
+    "collective": ">=7.26"
   },
 
   "custom": {
