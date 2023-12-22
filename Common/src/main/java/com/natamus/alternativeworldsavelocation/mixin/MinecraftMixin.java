@@ -1,4 +1,4 @@
-package com.natamus.alternativeworldsavelocation.neoforge.mixin;
+package com.natamus.alternativeworldsavelocation.mixin;
 
 import com.mojang.datafixers.DataFixer;
 import com.natamus.alternativeworldsavelocation.util.Reference;
@@ -58,5 +58,6 @@ public class MinecraftMixin {
 			backuppath = Util.returnSystemSpecificPath(rawbackupspath);
 		}
 		
-		this.levelSource = new LevelStorageSource(Paths.get(savespath), Paths.get(backuppath), LevelStorageSource.parseValidator(Minecraft.getInstance().gameDirectory.toPath().resolve("allowed_symlinks.txt")), this.fixerUpper);	}
+		this.levelSource = new LevelStorageSource(Paths.get(savespath), Paths.get(backuppath), LevelStorageSource.parseValidator(Minecraft.getInstance().gameDirectory.toPath().resolve("allowed_symlinks.txt")), this.fixerUpper);
+	}
 }
