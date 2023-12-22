@@ -1,4 +1,4 @@
-package com.natamus.alternativeworldsavelocation.forge.mixin;
+package com.natamus.alternativeworldsavelocation.mixin;
 
 import com.mojang.datafixers.DataFixer;
 import com.natamus.alternativeworldsavelocation.util.Reference;

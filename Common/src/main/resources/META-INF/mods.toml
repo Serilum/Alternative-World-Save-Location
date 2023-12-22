@@ -6,7 +6,7 @@ logoFile="icon.png"
 
 [[mods]]
 modId="alternativeworldsavelocation"
-version="3.4"
+version="3.5"
 displayName="Alternative World Save Location"
 displayURL="https://serilum.com/mod/alternative-world-save-location"
 authors="Rick South"
@@ -23,7 +23,7 @@ If you would like to contribute too, check out https://ricksouth.com/donate. App
     modId="collective"
     type="required"
     mandatory=true
-    versionRange="[7.21,)"
+    versionRange="[7.26,)"
     ordering="NONE"
     side="BOTH"
 
