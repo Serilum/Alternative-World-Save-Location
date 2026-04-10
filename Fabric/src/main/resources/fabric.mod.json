@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "alternativeworldsavelocation",
+  "version": "3.7",
+
+  "name": "Alternative World Save Location",
+  "description": "Allows changing the default save location of Minecraft worlds to outside the instance scope.",
+  "authors": [ "Rick South" ],
+  "contact": {
+    "homepage": "https://serilum.com/mod/alternative-world-save-location",
+    "sources": "https://github.com/Serilum/Alternative-World-Save-Location",
+    "issues": "https://github.com/Serilum/.issue-tracker/labels/Mod:%20Alternative%20World%20Save%20Location"
+  },
+
+  "license": "All Right Reserved",
+  "icon": "icon.png",
+
+  "environment": "*",
+  "entrypoints": { "main": [ "com.natamus.alternativeworldsavelocation.ModFabric" ], "modmenu": [ "com.natamus.alternativeworldsavelocation.fabric.config.IntegrateModMenu" ] },
+  "mixins": [
+    "alternativeworldsavelocation.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "fabric-api": "*",
+    "minecraft": ">=26.1",
+    "java": ">=25",
+    "collective": ">=8.17"
+  },
+
+  "custom": {
+    "modmenu": {
+      "links": {
+        "Donate <3" : "https://serilum.com/donate"
+      }
+    }
+  },
+
+  "contributors": [
+	  " ",
+	  "Thank you very much to my Membership sponsors for supporting the development of this mod!",
+	  " ",
+	  "If you would like to contribute too, check out https://serilum.com/donate.",
+	  " ",
+	  "Membership sponsors:",
+	  " akanealw",
+	  " Alister",
+	  " Andrean Olgo",
+	  " aternosorg",
+	  " Cherriesaurus",
+	  " MWS",
+	  " t128",
+	  " Tyler Behl",
+	  " XAgent",
+	  " ตัวตรึง พระนคร"
+  ]
+}
