@@ -5,7 +5,6 @@ import com.natamus.collective.check.ShouldLoadCheck;
 import com.natamus.alternativeworldsavelocation.forge.config.IntegrateForgeConfig;
 import com.natamus.alternativeworldsavelocation.util.Reference;
 import net.minecraftforge.eventbus.api.bus.BusGroup;
-import net.minecraftforge.fml.ModLoadingContext;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLLoadCompleteEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
