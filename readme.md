@@ -1,5 +1,5 @@
 <h2>Alternative World Save Location</h2>
-<p><a href="https://github.com/Serilum/Alternative-World-Save-Location"><img src="https://serilum.com/assets/images/logo/alternative-world-save-location.png"></a></p><h2>Download</h2>
+<p><a href="https://github.com/Serilum/Alternative-World-Save-Location"><img src="https://workflow.serilum.com/web/logo/128/alternative-world-save-location.png" width="100" height="100"></a></p><h2>Download</h2>
 <p>You can download Alternative World Save Location on CurseForge and Modrinth:</p><p>&nbsp;&nbsp;CurseForge: &nbsp;&nbsp;<a href="https://curseforge.com/minecraft/mc-mods/alternative-world-save-location">https://curseforge.com/minecraft/mc-mods/alternative-world-save-location</a><br>&nbsp;&nbsp;Modrinth: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://modrinth.com/mod/alternative-world-save-location">https://modrinth.com/mod/alternative-world-save-location</a></p>
 <h2>Issue Tracker</h2>
 <p>To keep a better overview of all mods, the issue tracker is located in a separate repository.<br>&nbsp;&nbsp;For issues, ideas, suggestions or anything else, please follow this link:</p>
