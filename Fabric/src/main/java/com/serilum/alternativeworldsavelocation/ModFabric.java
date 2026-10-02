@@ -1,8 +1,8 @@
-package com.natamus.alternativeworldsavelocation;
+package com.serilum.alternativeworldsavelocation;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.alternativeworldsavelocation.util.Reference;
+import com.serilum.alternativeworldsavelocation.util.Reference;
 import net.fabricmc.api.ModInitializer;
 
 public class ModFabric implements ModInitializer {
