@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
   "id": "alternativeworldsavelocation",
-  "version": "3.6",
+  "version": "3.8",
 
   "name": "Alternative World Save Location",
   "description": "Allows changing the default save location of Minecraft worlds to outside the instance scope.",
-  "authors": [ "Rick South" ],
+  "authors": [ "Serilum" ],
   "contact": {
     "homepage": "https://serilum.com/mod/alternative-world-save-location",
     "sources": "https://github.com/Serilum/Alternative-World-Save-Location",
     "issues": "https://github.com/Serilum/.issue-tracker/labels/Mod:%20Alternative%20World%20Save%20Location"
   },
 
-  "license": "All Right Reserved",
+  "license": "All Rights Reserved",
   "icon": "icon.png",
 
   "environment": "*",
-  "entrypoints": { "main": [ "com.natamus.alternativeworldsavelocation.ModFabric" ], "modmenu": [ "com.natamus.alternativeworldsavelocation.fabric.config.IntegrateModMenu" ] },
+  "entrypoints": { "main": [ "com.serilum.alternativeworldsavelocation.ModFabric" ], "modmenu": [ "com.serilum.alternativeworldsavelocation.fabric.config.IntegrateModMenu" ] },
   "mixins": [
     "alternativeworldsavelocation.mixins.json"
   ],
@@ -26,13 +26,13 @@
     "fabric": "*",
     "minecraft": ">=1.20",
     "java": ">=17",
-    "collective": ">=7.78"
+    "collective": ">=8.40"
   },
 
   "custom": {
     "modmenu": {
       "links": {
-        "Donate <3" : "https://ricksouth.com/donate"
+        "Donate <3" : "https://serilum.com/donate"
       }
     }
   },
@@ -41,16 +41,15 @@
 	  " ",
 	  "Thank you very much to my Membership sponsors for supporting the development of this mod!",
 	  " ",
-	  "If you would like to contribute too, check out https://serilum.com/donate.",
+	  "If you would like to contribute too, check out https://serilum.com/donate",
 	  " ",
 	  "Membership sponsors:",
-	  " Alister",
 	  " Andrean Olgo",
+	  " AnyankaT",
 	  " aternosorg",
 	  " Cherriesaurus",
-	  " Michael W. S.",
-	  " Nahuel Fernandez",
-	  " Shana Gitnick",
+	  " Linda Jansen",
+	  " MWS",
 	  " Tyler Behl"
   ]
 }

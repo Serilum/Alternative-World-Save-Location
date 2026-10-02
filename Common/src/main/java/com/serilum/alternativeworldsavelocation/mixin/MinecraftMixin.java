@@ -1,8 +1,8 @@
-package com.natamus.alternativeworldsavelocation.mixin;
+package com.serilum.alternativeworldsavelocation.mixin;
 
 import com.mojang.datafixers.DataFixer;
-import com.natamus.alternativeworldsavelocation.util.Reference;
-import com.natamus.alternativeworldsavelocation.util.Util;
+import com.serilum.alternativeworldsavelocation.util.Reference;
+import com.serilum.alternativeworldsavelocation.util.Util;
 import com.natamus.collective.functions.ConfigFunctions;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.main.GameConfig;
