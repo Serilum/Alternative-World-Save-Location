@@ -1,7 +1,7 @@
-package com.natamus.alternativeworldsavelocation.forge.config;
+package com.serilum.alternativeworldsavelocation.forge.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.alternativeworldsavelocation.util.Reference;
+import com.serilum.alternativeworldsavelocation.util.Reference;
 import net.minecraftforge.client.ConfigScreenHandler;
 import net.minecraftforge.fml.ModLoadingContext;
 

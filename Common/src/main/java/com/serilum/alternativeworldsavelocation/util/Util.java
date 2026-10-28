@@ -1,4 +1,4 @@
-package com.natamus.alternativeworldsavelocation.util;
+package com.serilum.alternativeworldsavelocation.util;
 
 import java.io.File;
 import java.util.regex.Matcher;

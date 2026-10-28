@@ -1,6 +1,6 @@
-package com.natamus.alternativeworldsavelocation.config;
+package com.serilum.alternativeworldsavelocation.config;
 
-import com.natamus.alternativeworldsavelocation.util.Reference;
+import com.serilum.alternativeworldsavelocation.util.Reference;
 import com.natamus.collective.config.DuskConfig;
 import com.natamus.collective.functions.DataFunctions;
 

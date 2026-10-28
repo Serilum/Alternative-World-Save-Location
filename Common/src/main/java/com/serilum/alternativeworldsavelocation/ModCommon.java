@@ -1,6 +1,6 @@
-package com.natamus.alternativeworldsavelocation;
+package com.serilum.alternativeworldsavelocation;
 
-import com.natamus.alternativeworldsavelocation.config.ConfigHandler;
+import com.serilum.alternativeworldsavelocation.config.ConfigHandler;
 
 public class ModCommon {
 

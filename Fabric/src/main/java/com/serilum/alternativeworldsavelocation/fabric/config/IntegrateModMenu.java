@@ -1,7 +1,7 @@
-package com.natamus.alternativeworldsavelocation.fabric.config;
+package com.serilum.alternativeworldsavelocation.fabric.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.alternativeworldsavelocation.util.Reference;
+import com.serilum.alternativeworldsavelocation.util.Reference;
 import com.terraformersmc.modmenu.api.ConfigScreenFactory;
 import com.terraformersmc.modmenu.api.ModMenuApi;
 

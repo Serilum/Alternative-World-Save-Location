@@ -1,9 +1,9 @@
-package com.natamus.alternativeworldsavelocation;
+package com.serilum.alternativeworldsavelocation;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.alternativeworldsavelocation.neoforge.config.IntegrateNeoForgeConfig;
-import com.natamus.alternativeworldsavelocation.util.Reference;
+import com.serilum.alternativeworldsavelocation.neoforge.config.IntegrateNeoForgeConfig;
+import com.serilum.alternativeworldsavelocation.util.Reference;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.ModLoadingContext;
 import net.neoforged.fml.common.Mod;
